@@ -1,0 +1,6 @@
+{
+  "name": "Resistencia de Materiales",
+  "description": "Simulador educativo interactivo de torsión y flexión para ingeniería - Universidad de Talca",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
