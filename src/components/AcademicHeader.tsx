@@ -7,8 +7,9 @@ export default function AcademicHeader() {
         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
           <div className="flex items-center gap-4">
             <img 
-              src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Utalca.svg" 
+              src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Utalca.svg" 
               alt="Universidad de Talca" 
+              referrerPolicy="no-referrer"
               className="h-11 w-auto object-contain shrink-0" 
             />
             <div>
