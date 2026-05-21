@@ -217,7 +217,7 @@ export default function AiStudyBuddy({
           </div>
           <div>
             <h3 className="font-bold text-white text-base">Tutor de IA Integrado</h3>
-            <p className="text-xs text-slate-400">Consultas al Dr. Criss Carreño Bernales con Gemini AI</p>
+            <p className="text-xs text-slate-400">Consultas a la docente Criss Carreño Bernales con Gemini AI</p>
           </div>
         </div>
         <div className="text-[10px] uppercase font-bold tracking-widest px-2.5 py-1 bg-cyan-500/10 border border-cyan-500/20 text-cyan-400 rounded-full">
@@ -260,7 +260,7 @@ export default function AiStudyBuddy({
               {loading && (
                 <div className="flex flex-col items-center justify-center py-16 text-slate-400 gap-3">
                   <Loader2 className="w-8 h-8 text-cyan-400 animate-spin" />
-                  <div className="text-xs text-slate-300 font-medium">Dr. Carreño está formulando la deducción física...</div>
+                  <div className="text-xs text-slate-300 font-medium">La docente Criss Carreño está formulando la deducción física...</div>
                   <div className="text-[10px] text-slate-500">Calculando inercias, cargas y tensiones en tiempo real</div>
                 </div>
               )}
@@ -297,8 +297,8 @@ export default function AiStudyBuddy({
                       CC
                     </div>
                     <div>
-                      <div className="text-xs font-semibold text-slate-200">Explicación del Módulo</div>
-                      <div className="text-[10px] text-slate-400 font-mono">Dr. Criss Carreño Bernales</div>
+                       <div className="text-xs font-semibold text-slate-200">Explicación del Módulo</div>
+                      <div className="text-[10px] text-slate-400 font-mono">Criss Carreño Bernales</div>
                     </div>
                   </div>
                   <div className="pr-1">{formatResponse(response)}</div>

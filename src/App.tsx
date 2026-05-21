@@ -226,7 +226,7 @@ export default function App() {
         <p className="font-semibold text-slate-400">Universidad de Talca - Facultad de Ingeniería</p>
         <p>Departamento de Ingeniería de Minas &middot; Módulo: Resistencia de Materiales</p>
         <p className="text-[11px] text-slate-600 font-medium">
-          Diseño educativo optimizado con simulaciones de momentos y torsor interactivos. Dr. Criss Carreño Bernales &middot; {new Date().getFullYear()}
+          Diseño educativo optimizado con simulaciones de momentos y torsor interactivos. Criss Carreño Bernales &middot; {new Date().getFullYear()}
         </p>
       </footer>
 
