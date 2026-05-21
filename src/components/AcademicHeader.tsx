@@ -10,7 +10,7 @@ export default function AcademicHeader() {
               src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Utalca.svg" 
               alt="Universidad de Talca" 
               referrerPolicy="no-referrer"
-              className="h-11 w-auto object-contain shrink-0" 
+              className="h-16 w-auto object-contain shrink-0" 
             />
             <div>
               <div className="flex items-center gap-2">
